@@ -1,4 +1,5 @@
 ## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=300&section=header&text=capsule%20render&animation=twinkling&fontSize=90&fontColor=C0C0C0)
 
 <!--
 **1bryane/1bryane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![footer](https://capsule-render.vercel.app/api?section=footer&reversal=true&color=gradient&type=slice)
